@@ -2,6 +2,4 @@
 
 This is awesome website
 
-Updating readme file.
-
-Update locally
+Update the changes before Rebase
